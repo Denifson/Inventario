@@ -6,10 +6,8 @@ html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Buscador de Inventario</title>
     
-    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Iconos (Heroicons) -->
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     
@@ -53,45 +51,40 @@ html>
             animation: spin 1s linear infinite;
         }
 
-        /* Para que el search bar no pierda el foco al tocar resultados en iOS */
+        /* 🎨 MEJORA VISUAL: Alinea las tarjetas */
         #results-grid {
             -webkit-overflow-scrolling: touch;
+            grid-auto-rows: 1fr; /* <-- ESTA ES LA LÍNEA AÑADIDA */
         }
     </style>
 </head>
 <body class="bg-gray-100 h-screen overflow-hidden flex flex-col">
 
-    <!-- Loader Inicial -->
     <div id="loader" class="flex flex-col items-center justify-center h-full">
         <div class="loader"></div>
         <p class="text-gray-600 mt-4">Cargando productos...</p>
     </div>
 
-    <!-- Contenido Principal (Oculto al inicio) -->
     <div id="app-container" class="hidden h-full w-full flex-col">
         
-        <!-- Header estilo iOS -->
         <header class="bg-white/95 backdrop-blur-sm border-b border-gray-200 w-full z-20">
             <h1 class="text-xl font-bold text-center text-gray-900 py-3">Buscador de Inventario</h1>
         </header>
 
-        <!-- Barra de Búsqueda Fija -->
         <div class="sticky top-0 bg-gray-100 pt-4 pb-3 px-4 z-10">
             <div class="relative">
                 <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
                     <ion-icon name="search-outline" class="text-gray-400"></ion-icon>
                 </div>
                 <input type="search" id="search-input" placeholder="Buscar en todo el inventario..."
-                       class="w-full pl-11 pr-4 py-3 text-base bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
-                       autocomplete="off" autocorrect="off" autocapitalize="none">
+                           class="w-full pl-11 pr-4 py-3 text-base bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
+                           autocomplete="off" autocorrect="off" autocapitalize="none">
             </div>
         </div>
 
-        <!-- Resultados de Búsqueda -->
         <main class="flex-1 overflow-y-auto pb-20 px-4" id="results-container">
             <div id="results-grid" class="grid grid-cols-2 gap-3.5">
-                <!-- Las tarjetas de vista previa se insertan aquí -->
-            </div>
+                </div>
             <div id="no-results" class="text-center text-gray-500 pt-16 hidden">
                 <ion-icon name="archive-outline" class="text-5xl"></ion-icon>
                 <p class="mt-2 text-lg">No se encontraron productos</p>
@@ -105,16 +98,13 @@ html>
         </main>
     </div>
 
-    <!-- Modal de Detalles (estilo Bottom Sheet iOS) -->
     <div id="detail-modal" class="fixed inset-0 bg-black/50 z-40 hidden items-end" onclick="closeDetails()">
         <div id="detail-modal-content" class="bg-gray-100 w-full rounded-t-2xl max-h-[85vh] flex flex-col" onclick="event.stopPropagation()">
             
-            <!-- Handle para arrastrar (visual) -->
             <div class="w-full py-3 flex justify-center items-center">
                 <div class="w-12 h-1.5 bg-gray-300 rounded-full"></div>
             </div>
 
-            <!-- Header del Modal -->
             <div id="modal-header" class="flex justify-between items-center px-5 pb-2 border-b border-gray-200 bg-white sticky top-0 rounded-t-2xl">
                 <h2 id="modal-title" class="text-lg font-bold text-gray-900 truncate">Detalles del Producto</h2>
                 <button onclick="closeDetails()" class="text-gray-400 bg-gray-200 rounded-full w-7 h-7 flex items-center justify-center">
@@ -122,10 +112,8 @@ html>
                 </button>
             </div>
             
-            <!-- Contenido del Modal (Scrollable) -->
             <div id="modal-body" class="overflow-y-auto p-5 space-y-3">
-                <!-- Los detalles del producto se insertan aquí -->
-            </div>
+                </div>
         </div>
     </div>
 
@@ -133,9 +121,9 @@ html>
         // URLs de los datos
         const dataSources = [
             { type: 'PASTILLA', url: 'PASTILLA5x.json' },
-   	    { type: 'ACEITE', url: 'ACEITES5x.json' },
-   	    { type: 'PRODUCTO', url: 'COSAS5x.json' },
-    	    { type: 'FILTRO', url: 'FILTROS5x.json' }
+	        { type: 'ACEITE', url: 'ACEITES5x.json' },
+	        { type: 'PRODUCTO', url: 'COSAS5x.json' },
+ 	        { type: 'FILTRO', url: 'FILTROS5x.json' }
         ];
 
         let allProducts = [];
@@ -152,30 +140,43 @@ html>
         const modalTitle = document.getElementById('modal-title');
         const modalBody = document.getElementById('modal-body');
 
-        // Función de inicialización
+        // --- ⚡ INICIO: MEJORA DE CARGA CON CACHÉ ---
         document.addEventListener('DOMContentLoaded', async () => {
             try {
-                const fetchPromises = dataSources.map(source =>
-                    fetch(source.url)
-                        .then(response => {
-                            if (!response.ok) {
-                                throw new Error(`Error al cargar ${source.type}: ${response.statusText}`);
-                            }
-                            return response.json();
-                        })
-                        .then(data => data.map((item, index) => ({
-                            ...item,
-                            _type: source.type,
-                            _id: `${source.type}_${index}` // ID único global
-                        })))
-                );
+                let productsFromCache = localStorage.getItem('allProducts');
+                let cacheTimestamp = localStorage.getItem('productsTimestamp');
+                // 1 hora en milisegundos. Puedes cambiarlo (ej: 24 * 60 * 60 * 1000 para 1 día)
+                const cacheDuration = 60 * 60 * 1000; 
 
-                const allDataArrays = await Promise.all(fetchPromises);
-                allProducts = allDataArrays.flat();
-                
-                // Crear una versión optimizada para búsqueda
+                // 1. Comprueba si hay caché y si es reciente
+                if (productsFromCache && cacheTimestamp && (Date.now() - cacheTimestamp < cacheDuration)) {
+                    console.log("Cargando productos desde caché...");
+                    allProducts = JSON.parse(productsFromCache);
+                } else {
+                    // 2. Si no hay caché o está vieja, descarga los datos
+                    console.log("Caché vacía o expirada. Descargando datos...");
+                    const fetchPromises = dataSources.map(source =>
+                        fetch(source.url)
+                            .then(response => {
+                                if (!response.ok) throw new Error(`Error al cargar ${source.type}`);
+                                return response.json();
+                            })
+                            .then(data => data.map((item, index) => ({
+                                ...item,
+                                _type: source.type,
+                                _id: `${source.type}_${index}`
+                            })))
+                    );
+                    const allDataArrays = await Promise.all(fetchPromises);
+                    allProducts = allDataArrays.flat();
+
+                    // 3. Guarda los nuevos datos y la hora en el caché
+                    localStorage.setItem('allProducts', JSON.stringify(allProducts));
+                    localStorage.setItem('productsTimestamp', Date.now());
+                }
+
+                // 4. Continúa con la lógica de la app (esto es igual que tu código actual)
                 searchableProducts = allProducts.map(product => {
-                    // Combinar todos los valores de las propiedades en un string
                     const searchableString = Object.values(product)
                         .join(' ')
                         .toLowerCase()
@@ -199,11 +200,13 @@ html>
                 loader.innerHTML = `<p class="text-red-500 text-center">Error al cargar productos.<br>Por favor, revisa tu conexión y los enlaces.</p>`;
             }
         });
+        // --- ⚡ FIN: MEJORA DE CARGA CON CACHÉ ---
+
 
         // Función para manejar la búsqueda
         function handleSearch(e) {
             const query = e.target.value.toLowerCase().trim()
-                                 .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Quitar acentos
+                                .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Quitar acentos
 
             if (query.length < 2) {
                 resultsGrid.innerHTML = '';
@@ -383,4 +386,3 @@ html>
     </script>
 </body>
 </html>
-
