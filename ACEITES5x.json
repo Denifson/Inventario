@@ -1,0 +1,832 @@
+[
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOTUL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "27.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GULF",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "SL",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "KENDALL",
+    "CODIGO": "5W30",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "28.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "TOTAL",
+    "CODIGO": "15W50",
+    "CALIDAD": "MOLYGRAF F1",
+    "MOTOR": "GRAFITO Y MOLIBDENO",
+    "API": "SL",
+    "PRECIO": "8.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "KENDALL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA",
+    "API": "SN PLUS",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "MOBIL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "GP",
+    "CODIGO": "SAE 140",
+    "CALIDAD": "GEAR OIL",
+    "MOTOR": "TRANSMISION MECANICA",
+    "API": "GL-4",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "VALVOLINE",
+    "CODIGO": "SAE  40",
+    "CALIDAD": "RACING VR1",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "KENDALL",
+    "CODIGO": "15w40",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "DIESEL",
+    "API": "CK  - 4 ",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "MOBIL",
+    "CODIGO": "15W40",
+    "CALIDAD": "MX",
+    "MOTOR": "DIESEL",
+    "API": "CI - 4",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "UBX",
+    "CODIGO": "80W90",
+    "CALIDAD": "GEAR MP",
+    "MOTOR": "TRANSMISION MECANICA",
+    "API": "GL-5",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOTOREX",
+    "CODIGO": "75W85",
+    "CALIDAD": "GEAR EP",
+    "MOTOR": "TRANSMISION MANUAL",
+    "API": "GL - 5",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "GULF",
+    "CODIGO": "5W40",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "MOBIL",
+    "CODIGO": "5W30",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "5W30",
+    "CALIDAD": "FULL SINTETICO PRO DS",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "5L ",
+    "MARCA": "VALVOLINE",
+    "CODIGO": "5W30",
+    "CALIDAD": "FULL SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "35.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "UBX",
+    "CODIGO": "25W60",
+    "CALIDAD": "HIGH PERFOMANCE",
+    "MOTOR": "DIESEL",
+    "API": "CF",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "5W30",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "4T 10W30",
+    "CALIDAD": "GRUPO 2",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "GOLDEN BEAR",
+    "CODIGO": "20W50 TITAN 4T",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "20W50 4T",
+    "CALIDAD": "MOTORCICLE",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "VALVOLINE",
+    "CODIGO": "15W40",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "CK - 4 / SN",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "URSA",
+    "CODIGO": "15W40",
+    "CALIDAD": "TDX",
+    "MOTOR": "DIESEL",
+    "API": "CL - 4",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "MOBIL",
+    "CODIGO": "10W30",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "ATF",
+    "CALIDAD": "DEXRON IID",
+    "MOTOR": "TRANSMISION AUTOMATICA Y DIRECCION",
+    "API": "DEX II",
+    "PRECIO": "6.80",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "LUBREX RACE",
+    "CODIGO": "20W50",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "ENI",
+    "CODIGO": "20W50",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "ENI",
+    "CODIGO": "20W50",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "80W90",
+    "CALIDAD": "EPX",
+    "MOTOR": "CAJA Y TRANSMISION",
+    "API": "GL - 5",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "VALVOLINE",
+    "CODIGO": "20W50",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GOLDEN BEAR",
+    "CODIGO": "20W50",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "25W60",
+    "CALIDAD": "CRB",
+    "MOTOR": "DIESEL",
+    "API": "CF - 4",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "20W50 4T",
+    "CALIDAD": "ACTEVO",
+    "MOTOR": "GASOLINA",
+    "API": "SG",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "TORKE ",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "MONOGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "TEXACO",
+    "CODIGO": "2 TIEMPOS SAE 40",
+    "CALIDAD": "MINERAL",
+    "MOTOR": "GASOLINA",
+    "API": "TC",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "25W60",
+    "CALIDAD": "GTX",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "20W50",
+    "CALIDAD": "BASICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO ",
+    "MARCA": "CASTROL",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "MONOGRADO",
+    "MOTOR": "DIESEL",
+    "API": "CF",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "PHILLIPS",
+    "CODIGO": "15W40",
+    "CALIDAD": "TRABAJO PESADO",
+    "MOTOR": "DIESEL",
+    "API": "CK-4",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "AMALIE",
+    "CODIGO": "15W40",
+    "CALIDAD": "XLO SINTETICO",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "CKA - 4 / SN",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "URSA",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "TDX",
+    "MOTOR": "DIESEL",
+    "API": "CF",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "HD",
+    "MOTOR": "GASOLINA",
+    "API": "SG",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "",
+    "MOTOR": "",
+    "API": "",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "2 TIEMPOS ",
+    "CALIDAD": "",
+    "MOTOR": "GASOLINA",
+    "API": "",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "TOTAL",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "MONOGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SL",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "19A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "S OIL SEVEN",
+    "CODIGO": "10W30",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN/CF",
+    "PRECIO": "7.50",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "SWISSOIL ",
+    "CODIGO": "10W30",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "TORKE",
+    "CODIGO": "10W30",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "20A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "10W30",
+    "CALIDAD": "SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "24A"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOTUL",
+    "CODIGO": "10W30",
+    "CALIDAD": "TECHNOSYNTHESE",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "CG4 - SL",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "AMALIE",
+    "CODIGO": "10W30",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "26.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOTUL",
+    "CODIGO": "10W30",
+    "CALIDAD": "TECHNOSYNTHESE",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "CG4 - SL",
+    "PRECIO": "28.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GOLDEN BEAR",
+    "CODIGO": "10W30",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "CASTROL",
+    "CODIGO": "25W60",
+    "CALIDAD": "GTX",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "UBX",
+    "CODIGO": "80W90",
+    "CALIDAD": "GEAR MP",
+    "MOTOR": "TRANSMISION MECANICA",
+    "API": "GL - 5",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "KENDALL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "20W50",
+    "CALIDAD": "BASICO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "KENDALL",
+    "CODIGO": "15w40",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "DIESEL",
+    "API": "CK  - 4 ",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "URSA",
+    "CODIGO": "15W40",
+    "CALIDAD": "TDX",
+    "MOTOR": "DIESEL",
+    "API": "CL - 4",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOTOREX",
+    "CODIGO": "80W90",
+    "CALIDAD": "GEAR EP",
+    "MOTOR": "TRANSMISION MANUAL",
+    "API": "GL - 5",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "CASTROL",
+    "CODIGO": "ATF",
+    "CALIDAD": "DEX II",
+    "MOTOR": "TRANSMISION AUTOMATICA Y DIRECCION",
+    "API": "DEXRON 2",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "CASTROL",
+    "CODIGO": "80W90",
+    "CALIDAD": "EPX",
+    "MOTOR": "CAJA Y TRANSMISION",
+    "API": "GL - 5",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HORSE POWER",
+    "CODIGO": "ATF",
+    "CALIDAD": "DEX01",
+    "MOTOR": "TRANSMISION AUTOMATICA Y DIRECCION",
+    "API": "DEXRON 2",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GULF",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "",
+    "MOTOR": "GASOLINA O DIESEL",
+    "API": "SL",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "ENI",
+    "CODIGO": "ATF",
+    "CALIDAD": "ATF II",
+    "MOTOR": "TRANSMISION AUTOMATICA Y DIRECCION",
+    "API": "DEXRON 2",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GOLDEN BEAR",
+    "CODIGO": "20W50",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GOLDEN BEAR",
+    "CODIGO": "ATF",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "TRANSMISION AUTOMATICA Y DIRECCION",
+    "API": "DEXRON 3",
+    "PRECIO": "27.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HP PLUS",
+    "CODIGO": "10W30",
+    "CALIDAD": "MEZCLA SINTETICA",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "NAPA",
+    "CODIGO": "10W30",
+    "CALIDAD": "MULTI VISCOSIDAD",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "GULF",
+    "CODIGO": "10W30",
+    "CALIDAD": "GULF MAX X",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "ELAION ",
+    "CODIGO": "10W30",
+    "CALIDAD": "SEMI SINTETICO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "27.00",
+    "UBICACIÓN": "35B"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "CASTROL",
+    "CODIGO": "20W50",
+    "CALIDAD": "GTX",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOBIL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SP",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "MOBIL ",
+    "CODIGO": "15W40",
+    "CALIDAD": "MX",
+    "MOTOR": "DIESEL",
+    "API": "CI - 4",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "UBX",
+    "CODIGO": "25W60",
+    "CALIDAD": "HIGH PERFOMANCE",
+    "MOTOR": "DIESEL",
+    "API": "CF",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "TORKE",
+    "CODIGO": "10W30",
+    "CALIDAD": "MULTIGRADO",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "ENI",
+    "CODIGO": "25W60",
+    "CALIDAD": "I SIGMA PLUS",
+    "MOTOR": "DIESEL",
+    "API": "CF/SF",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "ENI",
+    "CODIGO": "10W30",
+    "CALIDAD": "ISINT",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "CASTROL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MAGNATEC",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "LITRO",
+    "MARCA": "CASTROL",
+    "CODIGO": "20W50",
+    "CALIDAD": "MAGNATEC",
+    "MOTOR": "GASOLINA",
+    "API": "SN",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "36V"
+  },
+  {
+    "PRESENTACIÓN": "GALON",
+    "MARCA": "HAVOLINE",
+    "CODIGO": "SAE 40",
+    "CALIDAD": "",
+    "MOTOR": "",
+    "API": "",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "CABINAS"
+  },
+  {
+    "PRESENTACIÓN": "CANECA ",
+    "MARCA": "MOBIL",
+    "CODIGO": "15W40",
+    "CALIDAD": "1300 SUPER",
+    "MOTOR": "DIESEL",
+    "API": "CK - 4 ",
+    "PRECIO": "95.00",
+    "UBICACIÓN": "CABINAS"
+  },
+  {
+    "PRESENTACIÓN": "MEDIA CANECA ",
+    "MARCA": "MOBIL",
+    "CODIGO": "15W40",
+    "CALIDAD": "1300 SUPER",
+    "MOTOR": "DIESEL",
+    "API": "CK - 4 ",
+    "PRECIO": "52.00",
+    "UBICACIÓN": "CABINAS"
+  }
+]

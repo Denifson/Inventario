@@ -1,0 +1,2562 @@
+[
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "ELECTRO TECNIA",
+    "DESCRIPCIÓN": "AGUAS DE BATERIA CON ACIDO",
+    "APLICACIÓN": "BATERIAS CON USO",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "KAISER",
+    "DESCRIPCIÓN": "AGUAS DE BATERIA SIN ACIDO",
+    "APLICACIÓN": "BATERIAS NUEVAS",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CMB",
+    "DESCRIPCIÓN": "CRUCETA ",
+    "APLICACIÓN": "GUN -  27",
+    "PRECIO": "8.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "DYCONEL",
+    "DESCRIPCIÓN": "FOCO OJO DE BUEY",
+    "APLICACIÓN": "120V 60D 2700K",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "LIBRA",
+    "MARCA": "TOP 1",
+    "DESCRIPCIÓN": "GRASA AZUL",
+    "APLICACIÓN": "MEZCLA SINTETICA ",
+    "PRECIO": "8.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "4 LIBRAS",
+    "MARCA": "KENDALL",
+    "DESCRIPCIÓN": "GRASA AZUL",
+    "APLICACIÓN": "COMPLEJO DE LITIO",
+    "PRECIO": "28.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "BARDAHL",
+    "DESCRIPCIÓN": "ADITIVO DE MOTOR",
+    "APLICACIÓN": "SPECIAL DUTY",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ABRO",
+    "DESCRIPCIÓN": "TRATAMIENTO DE MOTOR",
+    "APLICACIÓN": "VALVULAS Y PISTONES",
+    "PRECIO": "6.80",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CYCLO",
+    "DESCRIPCIÓN": "TRATAMIENTO DE MOTOR",
+    "APLICACIÓN": "VALVULAS Y PISTONES",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LIBRA",
+    "MARCA": "GRANEL",
+    "DESCRIPCIÓN": "GRASA AZUL Y NEGRA",
+    "APLICACIÓN": "GRAS",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "3 EN 1",
+    "DESCRIPCIÓN": "ACEITE TRES EN UNO PEQUEÑO",
+    "APLICACIÓN": "MAQUINAS DE COSER",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "3 EN 1",
+    "DESCRIPCIÓN": "ACEITE TRES EN UNO GRANDE",
+    "APLICACIÓN": "MAQUINAS DE COSER",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LIBRA",
+    "MARCA": "KENDALL",
+    "DESCRIPCIÓN": "GRASA AZUL",
+    "APLICACIÓN": "COMPLEJO DE LITIO",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "ATE",
+    "DESCRIPCIÓN": "LIQUIDO DE FRENO AZUL",
+    "APLICACIÓN": "FRENO",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TITANIUM",
+    "DESCRIPCIÓN": "LUBRICANTE WT - 40 ",
+    "APLICACIÓN": "OXIDO",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "RECFLEX",
+    "DESCRIPCIÓN": "PULMON T30/30 DOBLE ACCION ",
+    "APLICACIÓN": "FRENOS DE AIRE RFA021",
+    "PRECIO": "",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ATE",
+    "DESCRIPCIÓN": "LIQUIDO DE FRENO AZUL PEQUEÑO",
+    "APLICACIÓN": "FRENO",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "GLOBAL",
+    "DESCRIPCIÓN": "REFRIGERANTE VERDE ",
+    "APLICACIÓN": "GASOLINA",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "GLOBAL",
+    "DESCRIPCIÓN": "REFRIGERANTE VERDE ",
+    "APLICACIÓN": "GASOLINA O DIESEL",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDENSTONE",
+    "DESCRIPCIÓN": "TUBO PITON CORTO",
+    "APLICACIÓN": "RIN 15",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDENSHINE",
+    "DESCRIPCIÓN": "TUBO PITON CORTO",
+    "APLICACIÓN": "700 RIN 15",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ROADTEC",
+    "DESCRIPCIÓN": "TUBO PITON LARGO",
+    "APLICACIÓN": "700/750 RIN 15",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDEN SHINE",
+    "DESCRIPCIÓN": "TUBO PITON LARGO",
+    "APLICACIÓN": "750 RIN 16",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDEN SHINE",
+    "DESCRIPCIÓN": "TUBO PITON LARGO",
+    "APLICACIÓN": "825 RIN 16",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CHINA",
+    "DESCRIPCIÓN": "BOMBAS DE INFLAR ",
+    "APLICACIÓN": "",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "AFRICANO",
+    "DESCRIPCIÓN": "CEMENTO DE CONTACTO",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "VISTONY",
+    "DESCRIPCIÓN": "LIQUIDO DE FRENOS DE MOTOS",
+    "APLICACIÓN": "DOT 3",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SOLFIN PARTS",
+    "DESCRIPCIÓN": "LIQUIDO DE FRENOS DE MOTOS",
+    "APLICACIÓN": "DOT 4",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TUN HUANG",
+    "DESCRIPCIÓN": "BARAJAS",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GRANEL",
+    "DESCRIPCIÓN": "ACEITE O BRILLO PARA CARROS",
+    "APLICACIÓN": "",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SIMONIZ",
+    "DESCRIPCIÓN": "UV3 DE FRESA",
+    "APLICACIÓN": "SILICONA",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SIMONIZ",
+    "DESCRIPCIÓN": "UV3 DE CHICLE",
+    "APLICACIÓN": "SILICONA",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ABRO",
+    "DESCRIPCIÓN": "LIMPIA CONTACTOS",
+    "APLICACIÓN": "CONTACT CLEANER",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "29V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDEN SHINE",
+    "DESCRIPCIÓN": "TUBO PITON LARGO",
+    "APLICACIÓN": "1000 RIN 20",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLDENSHINE",
+    "DESCRIPCIÓN": "TUBO PITON CORTO",
+    "APLICACIÓN": "RIN 16",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GRANEL",
+    "DESCRIPCIÓN": "DEFENSA DE TUBO",
+    "APLICACIÓN": "RIN 15",
+    "PRECIO": "8.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NTN",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6004",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6202",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6203",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HCH",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6004",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6004",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6200",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "30304",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CMS",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6204",
+    "PRECIO": "6.60",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6201",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6202",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6204",
+    "PRECIO": "4.60",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6205",
+    "PRECIO": "4.60",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6301",
+    "PRECIO": "3.90",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6302",
+    "PRECIO": "4.30",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6303",
+    "PRECIO": "4.30",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6304",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "MBA",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6304",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TAPFFER",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6207",
+    "PRECIO": "9.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "FAG",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6207",
+    "PRECIO": "16.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TIMKEN",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "30210",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "T4072RS",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "CAP30208JR",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NTN",
+    "DESCRIPCIÓN": "PISTA DE RULIMAN",
+    "APLICACIÓN": "TM1025",
+    "PRECIO": "",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "CAPLKM48548",
+    "PRECIO": "12.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GBR",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "30207",
+    "PRECIO": "16.50",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KOYO",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "CT70B",
+    "PRECIO": "32.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NTN",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "6211C3",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "FEDERAL MOGUL",
+    "DESCRIPCIÓN": "RULIMAN O RODAMIENTO ",
+    "APLICACIÓN": "1308",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TIMKEN",
+    "DESCRIPCIÓN": "PISTA DE RULIMAN",
+    "APLICACIÓN": "603012",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "35BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GUANTES PUPOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "FABULOSO",
+    "DESCRIPCIÓN": "FABULOSO",
+    "APLICACIÓN": "",
+    "PRECIO": "0.65",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CABLES DE BUJIA",
+    "APLICACIÓN": "",
+    "PRECIO": "14.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "PERNO DE LA BARRA",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "LLAVE DE TUBO #10",
+    "APLICACIÓN": "",
+    "PRECIO": "6.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "LLAVE DE TUBO #14",
+    "APLICACIÓN": "",
+    "PRECIO": "8.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "LLAVE DE TUBO #18",
+    "APLICACIÓN": "",
+    "PRECIO": "10.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPATULA NEGRA",
+    "APLICACIÓN": "",
+    "PRECIO": "4.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPATULA PEQUEÑA",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPATULA PEQUEÑA",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "LLANTA 125 MM",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "RUEDA FIJA 75MM",
+    "APLICACIÓN": "",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "RUEDA GIRATORIA 85MM",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "RUEDA FIJA 100 MM",
+    "APLICACIÓN": "",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "RUEDA FIJA 125 MM",
+    "APLICACIÓN": "",
+    "PRECIO": "3.75",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ABRAZADERAS 8 - 12",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ARAZADERAS 12- 18",
+    "APLICACIÓN": "",
+    "PRECIO": "0.60",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DESTORCEDORES PEQUEÑOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DESTORCEDORES MEDIANOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.10",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DESTORCEDORES GRANDES",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ARMELLAS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ARMELLAS GRANDES",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DESTAPADORES DE SANITARIO ",
+    "APLICACIÓN": "",
+    "PRECIO": "2.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ALDABAS ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ALDABAS ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ALDABAS ",
+    "APLICACIÓN": "",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "JALADERAS ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CAPUCHONES",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CLAVOS DE ACERO",
+    "APLICACIÓN": "",
+    "PRECIO": "0.10",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "VISAGRAS 2 X 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "VISAGRAS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "VISAGRAS",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ABRAZADERAS 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "UNIONES TEE",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TEE METALICO",
+    "APLICACIÓN": "",
+    "PRECIO": "0.60",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "REDUCCIONES",
+    "APLICACIÓN": "",
+    "PRECIO": "1.10",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TAPONES",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "UNION PULGADA",
+    "APLICACIÓN": "",
+    "PRECIO": "1.10",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TEE 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "1.15",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "UNION 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TAPONES 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TAPONES MACHO 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "TAPON HEMBRA 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "0.55",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "YEE 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "UNION 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "YEE 1 PULGADA",
+    "APLICACIÓN": "",
+    "PRECIO": "7.80",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "YEE 3 PULGADAS",
+    "APLICACIÓN": "",
+    "PRECIO": "9.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESMERIL PEQUEÑO",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESMERIL GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "SINCEL GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "SINCEL PEQUEÑO",
+    "APLICACIÓN": "",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "COMBO CAUCHO GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ROMANILLA 100 LB",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ROMANILLA 50 LB",
+    "APLICACIÓN": "",
+    "PRECIO": "3.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "SAPITOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "PORTA CAUTIN",
+    "APLICACIÓN": "",
+    "PRECIO": "2.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "MANITO DE ESPEJO",
+    "APLICACIÓN": "",
+    "PRECIO": "0.10",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESTANIO",
+    "APLICACIÓN": "",
+    "PRECIO": "1.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "MASQUI",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "MASQUI GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "1.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CINTA DE EMBALAJE ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "PLASTIGAMA",
+    "DESCRIPCIÓN": "TEE 1/2 PLASTIGAMA",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "PLASTIGAMA",
+    "DESCRIPCIÓN": "TEE 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.80",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "PLASTIGAMA",
+    "DESCRIPCIÓN": "UNION 3/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NGK",
+    "DESCRIPCIÓN": "BUJIA MAZDA 2200 2600",
+    "APLICACIÓN": "BKR5E",
+    "PRECIO": "4.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NGK",
+    "DESCRIPCIÓN": "BUJIA MAZDA 2200 2600",
+    "APLICACIÓN": "BKR5EY",
+    "PRECIO": "4.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO GH POSTERIOR L 22X32 610",
+    "APLICACIÓN": "",
+    "PRECIO": "7.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO GH DELANTE L T22X32 611",
+    "APLICACIÓN": "",
+    "PRECIO": "7.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO GH POSTERIOR R T22X32 613",
+    "APLICACIÓN": "",
+    "PRECIO": "6.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPERRAGO GH DELANTERO R 722X32 615",
+    "APLICACIÓN": "",
+    "PRECIO": "7.00",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO AK DELANTERO R 6262",
+    "APLICACIÓN": "",
+    "PRECIO": "7.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPERRAGO AK POSTERIO R 6261",
+    "APLICACIÓN": "",
+    "PRECIO": "9.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO FF FD POSTERIOR L 618",
+    "APLICACIÓN": "",
+    "PRECIO": "8.25",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ESPARRAGO FF FD POSTERIOR R 614",
+    "APLICACIÓN": "",
+    "PRECIO": "8.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SHOGUN",
+    "DESCRIPCIÓN": "FILTRO DE ACEITE HINO FD FF GD GH DRENADOR",
+    "APLICACIÓN": "C012",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "FILTROS"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SHOGUN",
+    "DESCRIPCIÓN": "FILTRO DE COMBUSTIBLE HINO FF GD GH",
+    "APLICACIÓN": "5138",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "FILTROS"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SHOGUN",
+    "DESCRIPCIÓN": "FILTRO DE AIRE HINO GH 2004",
+    "APLICACIÓN": "1325",
+    "PRECIO": "27.00",
+    "UBICACIÓN": "FILTROS"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BELLOTA",
+    "DESCRIPCIÓN": "AZADON O ASADON",
+    "APLICACIÓN": "3 X 1/2",
+    "PRECIO": "12.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BELLOTA",
+    "DESCRIPCIÓN": "AZADON O ASADON",
+    "APLICACIÓN": "2 LIBRAS",
+    "PRECIO": "7.50",
+    "UBICACIÓN": ""
+  },
+  {
+    "MEDIDA": "MEDIO LITRO",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "ACEITE 2 TIEMPOS STHIL",
+    "APLICACIÓN": "2T",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "LITRO",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "ACEITE 2 TIEMPOS STHIL",
+    "APLICACIÓN": "2T",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "MEDIO LITRO",
+    "MARCA": "OREGON",
+    "DESCRIPCIÓN": "ACEITE 2 TIEMPOS STHIL",
+    "APLICACIÓN": "2T",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CEPILLOS DE ACERO PEQUEÑO",
+    "APLICACIÓN": "PEQUEÑO",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CEPILLOS DE ACERO MEDIANO",
+    "APLICACIÓN": "MEDIANO",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CENTURY",
+    "DESCRIPCIÓN": "CAUTINES DE SOLDAR",
+    "APLICACIÓN": "110V - 120 V",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "2FC"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CENTURY",
+    "DESCRIPCIÓN": "LLANTA 3P",
+    "APLICACIÓN": "4R22001",
+    "PRECIO": "4.80",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "ARRUELA DE SEGURO DE MOTOSIERRA",
+    "APLICACIÓN": "9460 - 624 - 0801",
+    "PRECIO": "0.65",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "RESORTES DE 7 VUELTAS",
+    "APLICACIÓN": " 0000 - 997 - 5816 ",
+    "PRECIO": "3.75",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CONDOR",
+    "DESCRIPCIÓN": "MUSTANG - BATEPIEDRA",
+    "APLICACIÓN": "",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CENTURY",
+    "DESCRIPCIÓN": "LLANTAS METALICAS 1X1/2",
+    "APLICACIÓN": "4R22042",
+    "PRECIO": "",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GUANTES DE MOTOS DE CUERO #14",
+    "APLICACIÓN": "#14",
+    "PRECIO": "12.50",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "CUERDAS DE ARRANQUE ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "LLAVE DE BUJIA",
+    "APLICACIÓN": "1111 - 890 - 3400",
+    "PRECIO": "",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "PIÑON LOCO",
+    "APLICACIÓN": "0000 - 642 - 1223",
+    "PRECIO": "9.00",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "TUERCA DE SEGURIDAD M12 X 1.5",
+    "APLICACIÓN": "4119 - 642 - 7600",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "SEGURO DE CADENILLA DE MOTOSIERRA",
+    "APLICACIÓN": "3824 - 660 - 6020B",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "RODELAS DE MOTOSIERRA",
+    "APLICACIÓN": "0000 - 958 - 1032",
+    "PRECIO": "",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STIHL",
+    "DESCRIPCIÓN": "PLATO GIRATORIO GUADAÑA",
+    "APLICACIÓN": "4119 - 713 - 7100",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CONDOR",
+    "DESCRIPCIÓN": "SELLADOR  O LACA",
+    "APLICACIÓN": "36306",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "1LL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "ANGULOS DE CAMA",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ABRO",
+    "DESCRIPCIÓN": "SILICONA TRANSPARENTE",
+    "APLICACIÓN": "1000 SILICONE SEALANT",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CYCLO",
+    "DESCRIPCIÓN": "SILICONA GRIS GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "LOCTITE",
+    "DESCRIPCIÓN": "SILICONA GRIS GRANDE",
+    "APLICACIÓN": "",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "BP",
+    "DESCRIPCIÓN": "FRESAS, FRESADORA, PIEDRAS MONTADAS",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BP",
+    "DESCRIPCIÓN": "FRESAS, FRESADORA, PIEDRAS MONTADAS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "STHIIIL"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ABRO",
+    "DESCRIPCIÓN": "SILICONA GRIS PEQUEÑA",
+    "APLICACIÓN": "GREY 999",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BP",
+    "DESCRIPCIÓN": "VIDRIO DE SOLDAR",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/16 - 24",
+    "APLICACIÓN": "5/16 - 24",
+    "PRECIO": "12.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/16 - 18",
+    "APLICACIÓN": "5/16 - 18",
+    "PRECIO": "12.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/16 - 24",
+    "APLICACIÓN": "5/16 - 24",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/16 - 18",
+    "APLICACIÓN": "5/16 - 18",
+    "PRECIO": "4.25",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 1/4 - 20",
+    "APLICACIÓN": "1/4 UNF 20",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 1/4 - 20",
+    "APLICACIÓN": "1/4 UNF 20",
+    "PRECIO": "9.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 3/8 UNF 24",
+    "APLICACIÓN": "3/8 UNF 24",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 3/8 UNF 24",
+    "APLICACIÓN": "3/8 UNF 24",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 1/2 - 20",
+    "APLICACIÓN": "1/2 UNF 20",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 1/2 - 20",
+    "APLICACIÓN": "1/2 UNF 20",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELO M8 X 1.25",
+    "APLICACIÓN": "M8X1.25",
+    "PRECIO": "12.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELO M8 X 1.25",
+    "APLICACIÓN": "M8X1.25",
+    "PRECIO": "4.30",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELO 3/8 -16",
+    "APLICACIÓN": "3/8 UNF 16",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELO 3/8 -16",
+    "APLICACIÓN": "3/8 UNF 16",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "OHIO",
+    "DESCRIPCIÓN": "MACHUELO M12 X 1.25",
+    "APLICACIÓN": "M12 X 12.25 MM",
+    "PRECIO": "13.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "OHIO",
+    "DESCRIPCIÓN": "MACHUELO M12 X 1.25",
+    "APLICACIÓN": "M12 X 12.25 MM",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "OHIO",
+    "DESCRIPCIÓN": "MACHUELO M14 X 2",
+    "APLICACIÓN": "M14 X 2 MM",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "OHIO",
+    "DESCRIPCIÓN": "MACHUELO M14 X 2",
+    "APLICACIÓN": "M14 X 2 MM",
+    "PRECIO": "13.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "KRINO",
+    "DESCRIPCIÓN": "MACHUELOS 1/4",
+    "APLICACIÓN": "1/4X",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KRINO",
+    "DESCRIPCIÓN": "MACHUELOS 1/4",
+    "APLICACIÓN": "1/4X",
+    "PRECIO": "9.00",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "3M",
+    "DESCRIPCIÓN": "CINTA REFLECTIVA BLANCA Y ROJA",
+    "APLICACIÓN": "1,5 CADA PAR",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "FRANELAS PEQUEÑAS ",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "FRANELAS GRANDES ",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 1/4 RECTOS ",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 1/4 CURVOS",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 5/16 RECTOS ",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 5/16 CURVOS",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 3/8 RECTOS ",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 3/8 CURVOS",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "GRASEROS 1/2 SEMI CURVOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CHINA",
+    "DESCRIPCIÓN": "LLAVES #12",
+    "APLICACIÓN": "12",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "CHINA",
+    "DESCRIPCIÓN": "LLAVES #10",
+    "APLICACIÓN": "10",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CAJUELAS",
+    "APLICACIÓN": "",
+    "PRECIO": "",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "AGUA DE BATERIA REACTIVADOR",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BARRAS DE SILICONA",
+    "APLICACIÓN": "",
+    "PRECIO": "0.10",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HIGHPOWER",
+    "DESCRIPCIÓN": "CUADRO CINTA REFLECTIVA VERDE",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CALCOMANIAS ",
+    "APLICACIÓN": "GENERAL",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "TODO",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CINTA REFLECTIVA AZUL Y PLOMO",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HIGHPOWER",
+    "DESCRIPCIÓN": "CUADRO CINTA REFLECTIVA AZUL",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HIGHPOWER",
+    "DESCRIPCIÓN": "CUADRO CINTA REFLECTIVA ROJO",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/8",
+    "APLICACIÓN": " 5/8",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 5/8",
+    "APLICACIÓN": " 5/8",
+    "PRECIO": "6.50",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 3/4 NF 16",
+    "APLICACIÓN": "3/4 NF 16",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS 3/4 NF 16",
+    "APLICACIÓN": "3/4 NF 16",
+    "PRECIO": "8.00",
+    "UBICACIÓN": "30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "DURO",
+    "DESCRIPCIÓN": "TUBO #12",
+    "APLICACIÓN": "#12",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "YUANXING",
+    "DESCRIPCIÓN": "TUBO #26",
+    "APLICACIÓN": "#26",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "YUANXING",
+    "DESCRIPCIÓN": "TUBO #29",
+    "APLICACIÓN": "#29",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "YUANXING",
+    "DESCRIPCIÓN": "TUBO #20",
+    "APLICACIÓN": "#20",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "WILLIAMS",
+    "DESCRIPCIÓN": "TUBO #24",
+    "APLICACIÓN": "#24",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "FORROS DE ASIENTOS",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "RADIOS DE BICICLETA ",
+    "APLICACIÓN": "",
+    "PRECIO": "0.15",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TAIWAN",
+    "DESCRIPCIÓN": "PEDALES TAIWAN NEGROS",
+    "APLICACIÓN": "",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "PALANCAS DE FRENO SEMI METALICOS",
+    "APLICACIÓN": "SEMI METALICOS",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "DIADEM",
+    "DESCRIPCIÓN": "TENSOR CHINO",
+    "APLICACIÓN": "DERAILLEUR",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLD PATCH",
+    "DESCRIPCIÓN": "PARCHE L24",
+    "APLICACIÓN": "L24",
+    "PRECIO": "0.25",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GOLD PATCH",
+    "DESCRIPCIÓN": "PARCHE M48",
+    "APLICACIÓN": "M48",
+    "PRECIO": "0.10",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "CAJA",
+    "MARCA": "GOLD PATCH",
+    "DESCRIPCIÓN": "PARCHE L24",
+    "APLICACIÓN": "L24",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "CAJA",
+    "MARCA": "GOLD PATCH",
+    "DESCRIPCIÓN": "PARCHE M48",
+    "APLICACIÓN": "M48",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "THUMBS UP",
+    "DESCRIPCIÓN": "SOLUCION O PEGA PARA PARCHES",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "27B"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "DZE",
+    "DESCRIPCIÓN": "BOBINA DE ACEITE",
+    "APLICACIÓN": "BOBINA 6012",
+    "PRECIO": "38.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KEISEN",
+    "DESCRIPCIÓN": "KIT DE REPARACION DE FRENO MAESTRO",
+    "APLICACIÓN": "MAZDA BT50 ",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "DAICHI",
+    "DESCRIPCIÓN": "ROTULA DE LA CHEVROLET 2300",
+    "APLICACIÓN": "",
+    "PRECIO": "27.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TAIHO",
+    "DESCRIPCIÓN": "CHAQUETAS BANCADAS SWIFT STEEMP VITARA 3P - 5P",
+    "APLICACIÓN": "NISSAN",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NIPLES",
+    "DESCRIPCIÓN": "NIPPLES",
+    "APLICACIÓN": "M10",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "GMB",
+    "DESCRIPCIÓN": "CRUCETA CHEVROLET DMAX 2.4 DATSUN",
+    "APLICACIÓN": "GU 1000",
+    "PRECIO": "12.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NAKAMOTO",
+    "DESCRIPCIÓN": "BASES DE MOTOR DE LA MAZDA",
+    "APLICACIÓN": "",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "555",
+    "DESCRIPCIÓN": "ROTULA",
+    "APLICACIÓN": "SB - 1521",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "TRANSPOO",
+    "DESCRIPCIÓN": "REGULADOR DEL ALTERNADOR",
+    "APLICACIÓN": "",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "VULKO",
+    "DESCRIPCIÓN": "REGULADOR DEL ALTERNADOR",
+    "APLICACIÓN": "",
+    "PRECIO": "18.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "LOCKING ",
+    "DESCRIPCIÓN": "TAPA DE GASOLINA GW021",
+    "APLICACIÓN": "DATSUN, TOYOTA, SUBARU, MITSUBISHI, AMC, JEEP DODGE, VOLKSWAGEN",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "ESTÁNDAR",
+    "DESCRIPCIÓN": "BOBINA ELECTRONICA",
+    "APLICACIÓN": "FD476T",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KTC",
+    "DESCRIPCIÓN": "BOMBA DE GASOLINA ",
+    "APLICACIÓN": "227 - 008",
+    "PRECIO": "35.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "FILTRO DE BOMBA DE GASOLINA",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "AUTO PARTS",
+    "DESCRIPCIÓN": "BOBINA",
+    "APLICACIÓN": "PLATINO",
+    "PRECIO": "21.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BOSCH",
+    "DESCRIPCIÓN": "FILTRO DE COMBUSTIBLE",
+    "APLICACIÓN": "FUNDA AMARILLA",
+    "PRECIO": "45.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "FILTRO",
+    "DESCRIPCIÓN": "FILTRO CUADRADO DE AIRE",
+    "APLICACIÓN": "FA010",
+    "PRECIO": "7.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BOSCH",
+    "DESCRIPCIÓN": "BOMBA DE GASOLINA ALEMANA, GERMANY 4",
+    "APLICACIÓN": "0 580 454 001",
+    "PRECIO": "40.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BOSCH",
+    "DESCRIPCIÓN": "BOMBA DE GASOLINA BRAZIL, GERMANY 4",
+    "APLICACIÓN": "F 000 TE1 186",
+    "PRECIO": "47.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "SHIBUMI",
+    "DESCRIPCIÓN": "ROTULA MAZDA B2000",
+    "APLICACIÓN": "8AU2 34 510 PLUS",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KTC",
+    "DESCRIPCIÓN": "PITOS DE CARRO 12V",
+    "APLICACIÓN": "12V 350HZ L",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "KTC",
+    "DESCRIPCIÓN": "PITOS DE CARRO 12V",
+    "APLICACIÓN": "12V 400HZ H",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M10 X 1.25",
+    "APLICACIÓN": "M10 X 1.25 MM",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M12 X 1.25",
+    "APLICACIÓN": "M12 X 12.25 MM",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M10 X 1.25",
+    "APLICACIÓN": "M10 X 1.25 MM",
+    "PRECIO": "14.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M12 X 1.25",
+    "APLICACIÓN": "M12 X 12.25 MM",
+    "PRECIO": "16.50",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M18 X 1.5",
+    "APLICACIÓN": "M18X1.5",
+    "PRECIO": "21.70",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M18 X 1.5",
+    "APLICACIÓN": "M18X1.5",
+    "PRECIO": "8.70",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M14X 1.5",
+    "APLICACIÓN": "M14 X 1.5 MM",
+    "PRECIO": "6.25",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "HAND TAPS",
+    "DESCRIPCIÓN": "MACHUELOS M14X 1.5",
+    "APLICACIÓN": "M14 X 1.5 MM",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "PALANCA DE SUBIR VIDRIO",
+    "APLICACIÓN": "",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "31V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BETO",
+    "DESCRIPCIÓN": "BOMBA PARA PONER AIRE",
+    "APLICACIÓN": "CMPB - 03",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "BETO",
+    "DESCRIPCIÓN": "BOMBA PARA PONER AIRE",
+    "APLICACIÓN": "CRH-011PB ",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STANLEY",
+    "DESCRIPCIÓN": "TARRAJA",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "LLAVE DE RADIOS",
+    "APLICACIÓN": "",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "JUEGO",
+    "MARCA": "BP",
+    "DESCRIPCIÓN": "LLAVES HEXAGONALES",
+    "APLICACIÓN": "",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "STANLEY",
+    "DESCRIPCIÓN": "DADO #20",
+    "APLICACIÓN": "#20",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "XPRO",
+    "DESCRIPCIÓN": "PASTILLAS DE BICICLETA REDONDAS",
+    "APLICACIÓN": "PASTILLAS REDONDAS",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 1/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.40",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 5/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.45",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 3/32",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 1/8",
+    "APLICACIÓN": "",
+    "PRECIO": "0.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 9/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.60",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 5/32",
+    "APLICACIÓN": "",
+    "PRECIO": "0.60",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 11/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 3/16",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 13/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.80",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 7/32",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 15/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 1/4",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 5/16",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 3/8",
+    "APLICACIÓN": "",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 7/16",
+    "APLICACIÓN": "",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS NEGRAS 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 1/4",
+    "APLICACIÓN": "",
+    "PRECIO": "0.65",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 5/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.70",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 3/32",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 1/8",
+    "APLICACIÓN": "",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 9/64",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 5/32",
+    "APLICACIÓN": "",
+    "PRECIO": "0.90",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 11/64",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 3/16",
+    "APLICACIÓN": "",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 13/64",
+    "APLICACIÓN": "",
+    "PRECIO": "1.20",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 7/32",
+    "APLICACIÓN": "",
+    "PRECIO": "1.25",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 15/64",
+    "APLICACIÓN": "",
+    "PRECIO": "1.40",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 1/4",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 5/16",
+    "APLICACIÓN": "",
+    "PRECIO": "2.00",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 3/8",
+    "APLICACIÓN": "",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 7/16",
+    "APLICACIÓN": "",
+    "PRECIO": "3.75",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "BROCAS AMARILLAS 1/2",
+    "APLICACIÓN": "",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "25BR"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #8",
+    "APLICACIÓN": "8",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #9",
+    "APLICACIÓN": "9",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #10",
+    "APLICACIÓN": "10",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #11",
+    "APLICACIÓN": "11",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #12",
+    "APLICACIÓN": "12",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #13",
+    "APLICACIÓN": "13",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #14",
+    "APLICACIÓN": "14",
+    "PRECIO": "2.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #15",
+    "APLICACIÓN": "15",
+    "PRECIO": "2.75",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #17",
+    "APLICACIÓN": "17",
+    "PRECIO": "3.00",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #19",
+    "APLICACIÓN": "19",
+    "PRECIO": "3.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #21",
+    "APLICACIÓN": "21",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #22",
+    "APLICACIÓN": "22",
+    "PRECIO": "4.00",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #24",
+    "APLICACIÓN": "24",
+    "PRECIO": "4.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #27",
+    "APLICACIÓN": "27",
+    "PRECIO": "5.00",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #30",
+    "APLICACIÓN": "30",
+    "PRECIO": "5.50",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "DADOS #32",
+    "APLICACIÓN": "32",
+    "PRECIO": "6.00",
+    "UBICACIÓN": "DEBAJO DE LA 30V"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "NORTON",
+    "DESCRIPCIÓN": "DISCO DE CORTE PEQUEÑO",
+    "APLICACIÓN": "",
+    "PRECIO": "1.50",
+    "UBICACIÓN": "FERRETERIA"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CANDADO DE MOTO 520",
+    "APLICACIÓN": "520",
+    "PRECIO": "1.00",
+    "UBICACIÓN": "28C"
+  },
+  {
+    "MEDIDA": "UNIDAD",
+    "MARCA": "",
+    "DESCRIPCIÓN": "CANDADO DE MOTO 428",
+    "APLICACIÓN": "428",
+    "PRECIO": "0.75",
+    "UBICACIÓN": "28C"
+  }
+]

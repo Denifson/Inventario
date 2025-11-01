@@ -1,0 +1,385 @@
+<!DOCTYPE
+html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Buscador de Inventario</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Iconos (Heroicons) -->
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    
+    <style>
+        /* Fuente principal de iOS */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            -webkit-tap-highlight-color: transparent; /* Evita el 'flash' azul al tocar en iOS */
+        }
+        
+        /* Estilo del scrollbar (sutil) */
+        ::-webkit-scrollbar {
+            width: 5px;
+            height: 5px;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #cbd5e1; /* cool-gray-300 */
+            border-radius: 10px;
+        }
+        
+        /* Animación de entrada para el modal */
+        #detail-modal-content {
+            transition: transform 0.3s ease-out;
+            transform: translateY(100%);
+        }
+        
+        #detail-modal.flex #detail-modal-content {
+            transform: translateY(0);
+        }
+        
+        /* Animación de loader */
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        .loader {
+            border: 4px solid #f3f4f6; /* gray-100 */
+            border-top: 4px solid #3b82f6; /* blue-500 */
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+        }
+
+        /* Para que el search bar no pierda el foco al tocar resultados en iOS */
+        #results-grid {
+            -webkit-overflow-scrolling: touch;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 h-screen overflow-hidden flex flex-col">
+
+    <!-- Loader Inicial -->
+    <div id="loader" class="flex flex-col items-center justify-center h-full">
+        <div class="loader"></div>
+        <p class="text-gray-600 mt-4">Cargando productos...</p>
+    </div>
+
+    <!-- Contenido Principal (Oculto al inicio) -->
+    <div id="app-container" class="hidden h-full w-full flex-col">
+        
+        <!-- Header estilo iOS -->
+        <header class="bg-white/95 backdrop-blur-sm border-b border-gray-200 w-full z-20">
+            <h1 class="text-xl font-bold text-center text-gray-900 py-3">Buscador de Inventario</h1>
+        </header>
+
+        <!-- Barra de Búsqueda Fija -->
+        <div class="sticky top-0 bg-gray-100 pt-4 pb-3 px-4 z-10">
+            <div class="relative">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <ion-icon name="search-outline" class="text-gray-400"></ion-icon>
+                </div>
+                <input type="search" id="search-input" placeholder="Buscar en todo el inventario..."
+                       class="w-full pl-11 pr-4 py-3 text-base bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-sm"
+                       autocomplete="off" autocorrect="off" autocapitalize="none">
+            </div>
+        </div>
+
+        <!-- Resultados de Búsqueda -->
+        <main class="flex-1 overflow-y-auto pb-20 px-4" id="results-container">
+            <div id="results-grid" class="grid grid-cols-2 gap-3.5">
+                <!-- Las tarjetas de vista previa se insertan aquí -->
+            </div>
+            <div id="no-results" class="text-center text-gray-500 pt-16 hidden">
+                <ion-icon name="archive-outline" class="text-5xl"></ion-icon>
+                <p class="mt-2 text-lg">No se encontraron productos</p>
+                <p class="text-sm">Intenta con otro término de búsqueda.</p>
+            </div>
+             <div id="search-prompt" class="text-center text-gray-500 pt-16">
+                <ion-icon name="search-circle-outline" class="text-5xl"></ion-icon>
+                <p class="mt-2 text-lg">Busca tus productos</p>
+                <p class="text-sm">Escribe en la barra para ver resultados.</p>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal de Detalles (estilo Bottom Sheet iOS) -->
+    <div id="detail-modal" class="fixed inset-0 bg-black/50 z-40 hidden items-end" onclick="closeDetails()">
+        <div id="detail-modal-content" class="bg-gray-100 w-full rounded-t-2xl max-h-[85vh] flex flex-col" onclick="event.stopPropagation()">
+            
+            <!-- Handle para arrastrar (visual) -->
+            <div class="w-full py-3 flex justify-center items-center">
+                <div class="w-12 h-1.5 bg-gray-300 rounded-full"></div>
+            </div>
+
+            <!-- Header del Modal -->
+            <div id="modal-header" class="flex justify-between items-center px-5 pb-2 border-b border-gray-200 bg-white sticky top-0 rounded-t-2xl">
+                <h2 id="modal-title" class="text-lg font-bold text-gray-900 truncate">Detalles del Producto</h2>
+                <button onclick="closeDetails()" class="text-gray-400 bg-gray-200 rounded-full w-7 h-7 flex items-center justify-center">
+                    <ion-icon name="close-outline" class="text-xl"></ion-icon>
+                </button>
+            </div>
+            
+            <!-- Contenido del Modal (Scrollable) -->
+            <div id="modal-body" class="overflow-y-auto p-5 space-y-3">
+                <!-- Los detalles del producto se insertan aquí -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // URLs de los datos
+        const dataSources = [
+            { type: 'PASTILLA', url: 'PASTILLA5x.json' },
+   	    { type: 'ACEITE', url: 'ACEITES5x.json' },
+   	    { type: 'PRODUCTO', url: 'COSAS5x.json' },
+    	    { type: 'FILTRO', url: 'FILTROS5x.json' }
+        ];
+
+        let allProducts = [];
+        let searchableProducts = []; // Array optimizado para búsqueda
+
+        // Elementos del DOM
+        const loader = document.getElementById('loader');
+        const appContainer = document.getElementById('app-container');
+        const searchInput = document.getElementById('search-input');
+        const resultsGrid = document.getElementById('results-grid');
+        const noResults = document.getElementById('no-results');
+        const searchPrompt = document.getElementById('search-prompt');
+        const modal = document.getElementById('detail-modal');
+        const modalTitle = document.getElementById('modal-title');
+        const modalBody = document.getElementById('modal-body');
+
+        // Función de inicialización
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const fetchPromises = dataSources.map(source =>
+                    fetch(source.url)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error(`Error al cargar ${source.type}: ${response.statusText}`);
+                            }
+                            return response.json();
+                        })
+                        .then(data => data.map((item, index) => ({
+                            ...item,
+                            _type: source.type,
+                            _id: `${source.type}_${index}` // ID único global
+                        })))
+                );
+
+                const allDataArrays = await Promise.all(fetchPromises);
+                allProducts = allDataArrays.flat();
+                
+                // Crear una versión optimizada para búsqueda
+                searchableProducts = allProducts.map(product => {
+                    // Combinar todos los valores de las propiedades en un string
+                    const searchableString = Object.values(product)
+                        .join(' ')
+                        .toLowerCase()
+                        .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Quitar acentos
+                    return {
+                        id: product._id,
+                        searchString: searchableString
+                    };
+                });
+
+                // Ocultar loader y mostrar app
+                loader.classList.add('hidden');
+                appContainer.classList.remove('hidden');
+                appContainer.classList.add('flex');
+
+                // Añadir listener de búsqueda
+                searchInput.addEventListener('input', handleSearch);
+                
+            } catch (error) {
+                console.error("Error al cargar datos:", error);
+                loader.innerHTML = `<p class="text-red-500 text-center">Error al cargar productos.<br>Por favor, revisa tu conexión y los enlaces.</p>`;
+            }
+        });
+
+        // Función para manejar la búsqueda
+        function handleSearch(e) {
+            const query = e.target.value.toLowerCase().trim()
+                                 .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Quitar acentos
+
+            if (query.length < 2) {
+                resultsGrid.innerHTML = '';
+                noResults.classList.add('hidden');
+                searchPrompt.classList.remove('hidden');
+                return;
+            }
+
+            const startTime = performance.now();
+            
+            const results = searchableProducts
+                .filter(item => item.searchString.includes(query))
+                .map(item => allProducts.find(p => p._id === item.id));
+
+            const endTime = performance.now();
+            console.log(`Búsqueda tomó ${endTime - startTime}ms para ${results.length} resultados.`);
+            
+            renderResults(results);
+        }
+
+        // Función para renderizar resultados
+        function renderResults(results) {
+            resultsGrid.innerHTML = '';
+            searchPrompt.classList.add('hidden');
+
+            if (results.length === 0) {
+                noResults.classList.remove('hidden');
+                return;
+            }
+            
+            noResults.classList.add('hidden');
+            
+            const fragment = document.createDocumentFragment();
+            results.forEach(product => {
+                const card = createPreviewCard(product);
+                if (card) {
+                    fragment.appendChild(card);
+                }
+            });
+            resultsGrid.appendChild(fragment);
+        }
+
+        // Helper para formatear valores
+        function formatField(value, prefix = '', suffix = '') {
+            if (value === null || value === undefined || value === '') {
+                return '<span class="text-gray-400">N/A</span>';
+            }
+            return `${prefix}${value}${suffix}`;
+        }
+        
+        // Función para crear tarjeta de vista previa
+        function createPreviewCard(product) {
+            const card = document.createElement('div');
+            card.className = "bg-white rounded-xl shadow-md p-3.5 flex flex-col justify-between space-y-2 h-full cursor-pointer transition-transform transform active:scale-95";
+            card.onclick = () => showDetails(product._id);
+            
+            let content = '';
+
+            // Usar .toUpperCase() para las etiquetas de tipo
+            switch (product._type) {
+                case 'PASTILLA':
+                    card.style.borderColor = "#3b82f6"; // blue-500
+                    content = `
+                        <span class="absolute top-2 right-2 text-xs font-semibold text-blue-600 bg-blue-100 px-2 py-0.5 rounded-full">${product._type}</span>
+                        <p class="font-bold text-base text-gray-800 truncate pr-10">${formatField(product.MARCA)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Cód:</span> ${formatField(product.CODIGO)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Veh:</span> ${formatField(product.VEHICULO)}</p>
+                        <p class="text-sm text-gray-600"><span class="font-medium">Ubic:</span> ${formatField(product.UBICACIÓN)}</p>
+                        <p class="text-base font-bold text-blue-600 pt-1">${formatField(product.PRECIO, '$ ')}</p>
+                    `;
+                    break;
+                case 'ACEITE':
+                    card.style.borderColor = "#f59e0b"; // amber-500
+                    content = `
+                        <span class="absolute top-2 right-2 text-xs font-semibold text-amber-600 bg-amber-100 px-2 py-0.5 rounded-full">${product._type}</span>
+                        <p class="font-bold text-base text-gray-800 truncate pr-10">${formatField(product.MARCA)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Pres:</span> ${formatField(product.PRESENTACIÓN)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Cód:</span> ${formatField(product.CODIGO)}</p>
+                        <p class="text-sm text-gray-600"><span class="font-medium">Cal:</span> ${formatField(product.CALIDAD)}</p>
+                        <p class="text-base font-bold text-amber-600 pt-1">${formatField(product.PRECIO, '$ ')}</p>
+                    `;
+                    break;
+                case 'PRODUCTO':
+                    card.style.borderColor = "#10b981"; // emerald-500
+                    content = `
+                        <span class="absolute top-2 right-2 text-xs font-semibold text-emerald-600 bg-emerald-100 px-2 py-0.5 rounded-full">${product._type}</span>
+                        <p class="font-bold text-base text-gray-800 truncate pr-10">${formatField(product.MARCA)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Desc:</span> ${formatField(product.DESCRIPCIÓN)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">App:</span> ${formatField(product.APLICACIÓN)}</p>
+                        <p class="text-sm text-gray-600"><span class="font-medium">Ubic:</span> ${formatField(product.UBICACIÓN)}</p>
+                        <p class="text-base font-bold text-emerald-600 pt-1">${formatField(product.PRECIO, '$ ')}</p>
+                    `;
+                    break;
+                case 'FILTRO':
+                    card.style.borderColor = "#ec4899"; // pink-500
+                    content = `
+                        <span class="absolute top-2 right-2 text-xs font-semibold text-pink-600 bg-pink-100 px-2 py-0.5 rounded-full">${product._type}</span>
+                        <p class="font-bold text-base text-gray-800 truncate pr-10">${formatField(product.MARCA)}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Tipo:</span> ${formatField(product['TIPO DE FILTRO'])}</p>
+                        <p class="text-sm text-gray-600 truncate"><span class="font-medium">Cód:</span> ${formatField(product.CODIGO)}</p>
+                        <p class="text-sm text-gray-600"><span class="font-medium">Ubic:</span> ${formatField(product.UBICACIÓN)}</p>
+                        <p class="text-base font-bold text-pink-600 pt-1">${formatField(product.PRECIO, '$ ')}</p>
+                    `;
+                    break;
+                default:
+                    return null; // No renderizar tipos desconocidos
+            }
+            
+            card.innerHTML = `<div class="relative">${content}</div>`;
+            return card;
+        }
+
+        // Función para mostrar detalles
+        function showDetails(id) {
+            const product = allProducts.find(p => p._id === id);
+            if (!product) return;
+
+            // Poner el título y tipo en el header del modal
+            modalTitle.textContent = `${product.MARCA || product._type}`;
+
+            // Construir HTML de detalles
+            modalBody.innerHTML = '';
+            
+            const detailsFragment = document.createDocumentFragment();
+            
+            // Etiqueta de tipo
+            const typeBadge = document.createElement('div');
+            typeBadge.className = 'w-full text-center pb-4';
+            typeBadge.innerHTML = `<span class="text-sm font-semibold text-gray-600 bg-gray-200 px-3 py-1 rounded-full">${product._type}</span>`;
+            detailsFragment.appendChild(typeBadge);
+
+            const detailGroup = document.createElement('div');
+            detailGroup.className = "bg-white rounded-xl shadow-sm overflow-hidden divide-y divide-gray-200";
+
+            Object.entries(product).forEach(([key, value]) => {
+                // Omitir llaves internas
+                if (key.startsWith('_')) return;
+
+                const detailItem = document.createElement('div');
+                detailItem.className = "px-4 py-3 grid grid-cols-3 gap-4";
+                
+                const keyEl = document.createElement('dt');
+                keyEl.className = "text-sm font-medium text-gray-500 capitalize col-span-1";
+                keyEl.textContent = key.replace(/_/g, ' ');
+                
+                const valueEl = document.createElement('dd');
+                valueEl.className = "text-sm text-gray-900 col-span-2";
+                
+                // Formato especial para precio
+                if (key.toUpperCase() === 'PRECIO') {
+                    valueEl.textContent = value ? `$ ${parseFloat(value).toFixed(2)}` : 'N/A';
+                    valueEl.classList.add('font-bold', 'text-blue-600');
+                } else {
+                    valueEl.textContent = value || 'N/A';
+                }
+
+                detailItem.appendChild(keyEl);
+                detailItem.appendChild(valueEl);
+                detailGroup.appendChild(detailItem);
+            });
+            
+            detailsFragment.appendChild(detailGroup);
+            modalBody.appendChild(detailsFragment);
+
+            // Mostrar modal
+            modal.classList.remove('hidden');
+            modal.classList.add('flex');
+        }
+
+        // Función para cerrar detalles
+        function closeDetails() {
+            modal.classList.add('hidden');
+            modal.classList.remove('flex');
+            modalBody.innerHTML = ''; // Limpiar contenido
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,1662 @@
+[
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD768NF",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN  GOLF, POLO, FABIA, OCTAVIA",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "3.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD350NF",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN GOL 1.8L, 98 FIAT SPACIO, PREMIO 1.3",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "6.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1556NF",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN GOLF",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD924NF",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON, SPORTAGE ACTIVO - 10",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "1.00",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD924NF",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON, SPORTAGE ACTIVO - 10",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2015",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN  GOL, GOLF",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DKAMI",
+    "CODIGO": "D1146/C",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT LOGA, MEGAN, CLIO II 1.4 DESDE 2006",
+    "MATERIAL": "CERAMICA BPC 001 FG",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1213NF",
+    "VEHICULO": "CITROEN",
+    "APLICACIÓN": "CITROEN C-ELYSSE",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1435NF",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT DUSTER 1.6",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1146NF",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT LOGA, MEGANE, SYMBOL/03",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1830NF",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT LOGAN ",
+    "MATERIAL": "CARBON CERAMICO FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1830",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT LOGA 1.6 - ",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1321",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SPARK ",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D363",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV 2.0 L  2.2L 2.3L, RODEO 2.6L, TROOPER 1987-1995",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KAMURA",
+    "CODIGO": "CD1193-8311",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA RIOS STYLOO",
+    "MATERIAL": "CARBON CERAMICO GG",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "DONGIL",
+    "CODIGO": "D1039",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV",
+    "MATERIAL": "CARBON CERAMICO GG",
+    "STOCK": "1.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2016",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN GOOLF",
+    "MATERIAL": "ZHONGWEI SC99 FE",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD606",
+    "VEHICULO": "MITSUBISHI",
+    "APLICACIÓN": "MITSUBISHI MONTERO V6 3.5L 2008",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD822",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "CHINO GREAT WALL FLORID, HABAL M3 2016, TOYOTA COROLLA",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD58101G600",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA RIOS STYLUS",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD941",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI MATRIX/AVANTE/ KIA CERATO 1.6L",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD21",
+    "VEHICULO": "ESCARABAJO",
+    "APLICACIÓN": "ESCARABAJO 83",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-25365",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO 1.0L 2012 - 2015",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MKD8526SD",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA COROLLA",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "2.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD418NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET VITARA 3P",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "3.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD9026NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET N200",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD8342MNF",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO, HYUNDAI I10",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MDSP1405NF",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO R",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "GDB265NF",
+    "VEHICULO": "LADA",
+    "APLICACIÓN": "LADA  NIVA 4x4 1995 ",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "MGI",
+    "CODIGO": "D1210, MT136",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS NITRO",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "4.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D797",
+    "VEHICULO": "HONDA",
+    "APLICACIÓN": "HONDA, CHEVROLET AVEO, CHEVY TAXI, TACUMA",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1036NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET OPTRA",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "4.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD497NF",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI EXCEL / ACCENT / GETZ",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "3.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD402NF",
+    "VEHICULO": "FORD",
+    "APLICACIÓN": "FORD FESTIVA",
+    "MATERIAL": "GST 6 GG",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "D700NF",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN SENTRA B15",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1345NF",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN TIIDA",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD8386SD",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN VERSA",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "D1544NF",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI ACENT 2012 - KIA RIO R2012",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "3.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D924",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI TUSON 2004 - 2009 & KIA SPORTAGE ACTIVE 2005 - 2016",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1156",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA RIO XCITE 2008 / HYUNDAI ACENT 2006 - 2009 ",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LR-D1544",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI ACENT 2012",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD1156-QSM",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI ACENT VERNA 1.6 2006 / KIA RIO XCITE",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "2.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD924-KLM",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI TUCSON 2004-2012 KIA SPORTAG L ACTIVE RD",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MKD8514-KLM",
+    "VEHICULO": "HYUNDAI ",
+    "APLICACIÓN": "HYUNDAI H1 - TQ/ GRAN PREGIO 2008 / CARIVAL 2007  ",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPH-115",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUINDAI H1, GRAN PREGIO, KIA CARNIVAL ",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "6.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MKD85SD",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA COROLLA",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MKD8516 KLM",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON IX - KIA SPORTAGE R, CARENTS 4X2 ",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD668NF",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN SENTRA B14",
+    "MATERIAL": "GST 6 GG",
+    "STOCK": "2.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D510",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN SENTRA B13 TAXIS, SUNNY 94 +",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1296",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON IX 2009 / KIA CARENS OOO 2009 / RONDO 2010 / SPORTAGE R 4X4",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1593",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI ACCENT IV / SOLARIS IV / VERNA / KIA RIO",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LR-D1313",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI ACCENT 2012 POSTERIOR",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "MGI",
+    "CODIGO": "D579",
+    "VEHICULO": "ISUZU",
+    "APLICACIÓN": "ISUZU TROOPER / FRONTERA SPORT ",
+    "MATERIAL": "CERAMICA FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "FUJIYAMA ",
+    "CODIGO": "FJ - D031",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA RIO",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "14.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1210NF",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS NITRO",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KUBOSHI",
+    "CODIGO": "D320K SE",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA B2000 / FORD COURRIER",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "KUBOSHI",
+    "CODIGO": "D1661K SE",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2017",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "D320K SE",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA B2000 / FORD COURRIER",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "3.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "GDB3238NF",
+    "VEHICULO": "FORD",
+    "APLICACIÓN": "FORD RANGER 1999 - 2012 2.5L , MAZDA BT50 1999 - 2015 2.2L , MAZDA B2200",
+    "MATERIAL": "RZZW ZWA FG",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D1414",
+    "VEHICULO": "FORD",
+    "APLICACIÓN": "FORD TRUCK 150",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD350-KSM",
+    "VEHICULO": "FIAT ",
+    "APLICACIÓN": "FIAT SPACIO 1.3 / VOLSKWAGEN GOL 1.8 1996-2002",
+    "MATERIAL": "CER MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF-D680",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET GRAN VITARA 5P 1999 - 2001 / XL7 / SUZUKI SIDEKICK 1996 - 1998",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D-830",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN FRONTIER",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 1044 - 7947",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA 3.5 ASTRA",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 950 - 7849",
+    "VEHICULO": "MERCEDES",
+    "APLICACIÓN": "MERCEDES BENS SPRINTER ",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "27.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 88 - 9221",
+    "VEHICULO": "NISSAN ",
+    "APLICACIÓN": "NISSAN NAVARA ",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 1555",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN AMAROK",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 688",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA 1.3",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "D19421-KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL 2018 / DELANTERAS",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MKD9015-KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET FORZA ",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD451 - KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SWIFT",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD031 - KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAN REMO ",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD680NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET GRAN VITARA 5P",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD1146 KLM",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT LOGAN, MEGAN, CLIO 1.4",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD556 - KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET GRAN VITARA 5P, 3P ",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "FRENEC",
+    "CODIGO": "MG - CH - 1024",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA EVOLUTION 1.4L - 1.8L",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "FRENEC",
+    "CODIGO": "MG - CH - 1034",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET VITARA 5P , 3P VITARA 3P 99",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD285 - KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV, TROOPER 2.0 1983 - 1985",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "DONGIL",
+    "CODIGO": "D227",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN VENTO 2.0 L",
+    "MATERIAL": "L606H CERAMICA FG",
+    "STOCK": "3.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D1321",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SPARK DAEWOO",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D1601",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO RIO",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D1593",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "ACCENT RIOR",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D510",
+    "VEHICULO": "NISSAN ",
+    "APLICACIÓN": "NISSAN SENTRA B13",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D1176",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA EVOLUTION",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "14.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "SP1149",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO ",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "GOLD",
+    "CODIGO": "D688",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA PEUGEOT",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LR - D1544",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI ACCENT 2012 POSTERIOR",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D- 510",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN SENTRA B13",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D-1519-8728",
+    "VEHICULO": "MITSUBISHI",
+    "APLICACIÓN": "MITSUBISHI L200 TRITON 2.5",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2018",
+    "VEHICULO": "NISSAN ",
+    "APLICACIÓN": "NISSAN N200 VAN",
+    "MATERIAL": "SC99 FE",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D-1193",
+    "VEHICULO": "NISSAN ",
+    "APLICACIÓN": "NISSAN ALMERA ",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KOWA",
+    "CODIGO": "CD - 8122",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV 1997 - 2005",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D-418",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET GRAND VITARA 3P 1600",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 1105",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET GRAND VITARA XL7",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D - 9029",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CRUZE ",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "7870 - D969",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN MURANO",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "ADS",
+    "CODIGO": "D-1143",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA PEUGEOT",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD1303A - KLM",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA HILUX 2.7 DIESEL 4X4 2010",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "SF - D976",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA HILUX 2.7 DIESEL 4X4 2007",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1184",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS NITRO 2004 ,PRIUS ",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1184NF",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS NITRO GREAT WALL AUTOMOVIL, VOLLEX C30",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD862",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA RAV-4 2001 - 2005",
+    "MATERIAL": "S06-2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD2006",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA HILUX VIDO 2.7L",
+    "MATERIAL": "S06-2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD1210",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS NITRO 2008, RAV 4 2008 / COROLLA 1.8L 2008 / COROLLA JAPONES 1.8L 2011",
+    "MATERIAL": "S06-2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1523",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA HILUX 2.7L 4X2 2012",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D864",
+    "VEHICULO": "ZOTYE",
+    "APLICACIÓN": "ZOTYE T600 SANTA FE  2001 , H1 2006 , TERRACAN",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "FRENEC",
+    "CODIGO": "D1215 - 8335",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA COROLLA , CHERRY TIGGO 2,4L 2009",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPG - 106",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA HILUX NISSAN TIDA",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "3.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPL  - 010",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA SPORTAGE",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "3.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD98079104",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET DMAX 2009 , TRAIL BLAZER DIESEL 2016",
+    "MATERIAL": "S06-2 FF",
+    "STOCK": "3.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "IMPRISA",
+    "CODIGO": "P 10298 M",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET DMAX 2009 - 2016 ",
+    "MATERIAL": "0372 FF",
+    "STOCK": "2.00",
+    "PRECIO": "25.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD643",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA 2600 INYECCION",
+    "MATERIAL": "EU03 FF",
+    "STOCK": "2.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD1039- KLM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV DMAX - 2008 , GREAT WALL H3 H5 WINGLE TURBO DIESEL GAS",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1039",
+    "VEHICULO": "CILINDROS",
+    "APLICACIÓN": "CILINDROS, GREAT WALL WINGLE 2010+ , HAVAL H5",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2019",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA 2000",
+    "MATERIAL": "SC99 FE",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2020",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET LUV 2,3",
+    "MATERIAL": "SC99 FE",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD320",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA B2000 B2200 , FORD",
+    "MATERIAL": "EU03 FF",
+    "STOCK": "1.00",
+    "PRECIO": "23.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HP PLUS",
+    "CODIGO": "MD1094",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA 3 POSTERIOR , MAZDA 5 POSTERIOR",
+    "MATERIAL": "GSD-GM-08 MH-GF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "INCOLBEST",
+    "CODIGO": "10216 FF",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA B 2600 2011+ , MAZDA BT - 50 4X4 2007 ´, FORD RANGER ",
+    "MATERIAL": "10216 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD320",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA B2000 MAZDA 2200 2600 ",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD319 - KSM",
+    "VEHICULO": "MAZDA",
+    "APLICACIÓN": "MAZDA 323 NX 92",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1295",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON IX 2009+ KIA CERATO FORTE 2010 HYUNDAI, ACCENT 2006-2009 KIA RIO XCITE POST HYUNDAI",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "FRASLE ",
+    "CODIGO": "PD-26",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA ",
+    "MATERIAL": "PD-1788 FF",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPK-031",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA RIO",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "2.00",
+    "PRECIO": "14.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPG - 104",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA YARIS 1.3",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "3.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ALFRENTE"
+  },
+  {
+    "MARCA": "KOREASTAR",
+    "CODIGO": "KBPS - 001",
+    "VEHICULO": "RENAULT",
+    "APLICACIÓN": "RENAULT SAMSUNG SM3 ",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "MANDO",
+    "CODIGO": "MPH02",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI ACCENT 2006 - 2011 , KIA RIO XCITE 2006 - 2011",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "2.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "MANDO",
+    "CODIGO": "MPK29",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA PICANTO 2004 - 2011 , YUNDAI I10",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "MGI",
+    "CODIGO": "D579",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN V6",
+    "MATERIAL": "L006 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "22P ALFRENTE"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD1942",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL 2017",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MKD9015",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SUZUKI FORSA 2 1991 - 2022 CHREVROLET FORSA 1.3L 2002L",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD905",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SUZUKI VITARA SZ POST NISSAN MURANO 2001, XTRAIL 2006 RENAULT KOLEOS POST",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD1173",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA 1.6L 5P 1998, VOLSKWAGEN GOL 1.8L 1998 , FIAT PREMIO 1.5L, SAVEIRO",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD296",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SUZUKI FORSA 1 1987 - 1990 SPRINT",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD1311",
+    "VEHICULO": "HONDA",
+    "APLICACIÓN": "HONDA ACCORD",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "GDB3195NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SPARK, LANOS, MATIZ",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "3.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD296NF",
+    "VEHICULO": "SUZUKI",
+    "APLICACIÓN": "SUZUKI FORSA 1",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1590NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SPARK GT",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "LB1712NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL ",
+    "MATERIAL": "FQ NF-04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D924",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON 2004 - 2009, KIA SPORTAGE 2003",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1942",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAIL 2017",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1590",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SPARK GT, BEAT",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "3.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "PONER",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET TROOPER V6 DEL, LUV 3.2 RODEO 3.2",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "1.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1173NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET COESA T CORTA, VOLSKWAGEN GOL 2000",
+    "MATERIAL": "GST 6 GG",
+    "STOCK": "1.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MD1173NF",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET COESA T CORTA, VOLSKWAGEN GOL 2000",
+    "MATERIAL": "FQ NF - 04 GG",
+    "STOCK": "1.00",
+    "PRECIO": "18.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "KOWA",
+    "CODIGO": "CD-8221W-30",
+    "VEHICULO": "SKIDA",
+    "APLICACIÓN": "OCTAVIA C/SENSOR",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2021",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET VITARA 3 PUERTAS",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD031",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SAN REMO ",
+    "MATERIAL": "EU03 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD1573",
+    "VEHICULO": "KIA",
+    "APLICACIÓN": "KIA CARENS",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "26.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD696A",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN VENTO 2.0 L 1993-1997, JETTA 1990 - 1992 , PASSAT 1990 - 1993",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "2.00",
+    "PRECIO": "15.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "D976 - KLM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET BLAZER  MINI 1997 - 1998",
+    "MATERIAL": "LH - 02 - HT",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD882",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET TRAIL BLAZER 2002, SILVERADO, MAZDA 3",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MDGDB1351",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET ASTRA ",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "BULL BRAKES",
+    "CODIGO": "BBK 2022",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET VAN N200 CHINA",
+    "MATERIAL": "SC99 FE",
+    "STOCK": "2.00",
+    "PRECIO": "16.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "HIGH POWER BRAKE",
+    "CODIGO": "MD154",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET MINI BLAZER 4X4 , 4X2 1983 - 1997 , MALIBU, ASTRA SAFIRA",
+    "MATERIAL": "S06 - 2 FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "SUPER",
+    "CODIGO": "D - 8302M - N",
+    "VEHICULO": "NISSAN",
+    "APLICACIÓN": "NISSAN MURANO",
+    "MATERIAL": "SEMI METALICAS FF",
+    "STOCK": "1.00",
+    "PRECIO": "21.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "DK - 031",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET BUICK CENTURY",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "1.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "21P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1173",
+    "VEHICULO": "VOLSKWAGEN",
+    "APLICACIÓN": "VOLSKWAGEN GOL 1.8L, 98 FIAT SPACIO, PREMIO 1.3L, CHEVROLET CORSA 1.6L",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "16.50",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "DURAKO",
+    "CODIGO": "MKD8526SD",
+    "VEHICULO": "TOYOTA",
+    "APLICACIÓN": "TOYOTA COROLLA",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "2.00",
+    "PRECIO": "22.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD677 - KSM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET STEEM",
+    "MATERIAL": "APA CER - MET 01 FF",
+    "STOCK": "4.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1188",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET SUZUKI , GRAN VITARA SUZUKI",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "3.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "CARSHIELD",
+    "CODIGO": "LF - D1176",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA EVOLUTION 2002",
+    "MATERIAL": "CSP S08 FF",
+    "STOCK": "2.00",
+    "PRECIO": "17.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "KLOSS",
+    "CODIGO": "MD1176 - KLM",
+    "VEHICULO": "CHEVROLET",
+    "APLICACIÓN": "CHEVROLET CORSA EVOLUTION ",
+    "MATERIAL": "ANNAT LD FF",
+    "STOCK": "1.00",
+    "PRECIO": "19.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "NEW YORK BRAKE",
+    "CODIGO": "MG0001",
+    "VEHICULO": "NA",
+    "APLICACIÓN": "NA",
+    "MATERIAL": "MJG D01T FF",
+    "STOCK": "4.00",
+    "PRECIO": "20.00",
+    "UBICACIÓN": "22P ATRÁS"
+  },
+  {
+    "MARCA": "MANDO",
+    "CODIGO": "MPH01",
+    "VEHICULO": "HYUNDAI",
+    "APLICACIÓN": "HYUNDAI TUCSON 2004 - 2009, KIA SPORTAGE 2005 - 2010",
+    "MATERIAL": "DP101 FF",
+    "STOCK": "1.00",
+    "PRECIO": "24.00",
+    "UBICACIÓN": "22P ATRÁS"
+  }
+]
